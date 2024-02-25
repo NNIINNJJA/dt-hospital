@@ -1,0 +1,39 @@
+body{
+    background-image: url("/images/nature.jpg");
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.login{
+    margin: 250px auto;
+    width: 500px;
+    background-color: rgba(0,0,0,0.5);
+    padding: 20px 20px 20px;
+    color: violet;
+    border-radius: 5px;
+
+
+}
+.login h1{
+    color:chocolate
+}
+.login .textbox{
+    display: block;
+}
+.input input{
+    width: 100%;
+    border: 2px solid;
+    border-radius:6px;
+    padding:4px 4px 4px;
+    box-sizing: border-box;
+    font-size: 20px;
+
+}
+input:focus{
+    background-color: chocolate;
+}
+.submit{
+    text-align: center;
+}
+submit{
+    color: green;
+}

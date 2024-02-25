@@ -1,0 +1,12 @@
+h1{
+    border: 2px solid black;border-color: blue;color: crimson;border-width: 7px 2px;
+}
+p{
+
+    margin:auto;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 5px;
+    border: radius 10px;
+
+}
